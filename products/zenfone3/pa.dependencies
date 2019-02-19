@@ -24,9 +24,9 @@
         "revision":     "pie-8996"
     },
     {
-        "remote":       "aospa",
-        "repository":   "AOSPA/android_vendor_qcom_opensource_commonsys-intf_display",
-        "target_path":  "vendor/qcom/opensource/commonsys-intf/display",
-        "revision":     "pie"
+        "remote":       "github",
+        "repository":   "LineageOS/packages_resources_devicesettings",
+        "target_path":  "packages/resources/devicesettings",
+        "revision":     "lineage-16.0"
     }
 ]
